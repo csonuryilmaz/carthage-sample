@@ -1,0 +1,2 @@
+github "ContentSquare/CS_iOS_SDK" "v4.11.0"
+github "apple/swift-protobuf" "1.19.0"
